@@ -237,7 +237,7 @@
 
         <div class="row">
           <div class="col-lg-6 d-flex align-items-center" data-aos="fade-right" data-aos-delay="100">
-            <img src="assets/img/skill.jpg" class="img-fluid" height="50" alt="">
+            <img src="assets/img/spar.jpg" class="img-fluid" height="50" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
             <h3>Our Service</h3>
@@ -248,7 +248,7 @@
                 requirements. We are also able to fix and supply these services as per customer specifications.
                 Our services also include but not limited to vehicle regasing . The list of our services is inexhaustible.
             </p>
-
+               
             
 
           </div>
