@@ -157,6 +157,7 @@
     <Content Include="assets\img\skills.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="assets\img\spar.jpeg" />
     <Content Include="assets\img\spar.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
